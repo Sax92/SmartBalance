@@ -1,0 +1,5 @@
+@ECHO OFF
+cd C:\xampp\xampp-control
+mklink xampp_link xampp-control
+copy xampp_link %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Menu Start\Programs\
+

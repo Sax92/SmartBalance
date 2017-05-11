@@ -1,0 +1,241 @@
+.large{
+	width:100%;
+}
+
+.hide{
+    display: none;
+}
+
+.margin-top{
+    margin-top:20px;
+}
+
+.negative{
+    color: red;
+}
+
+.positive{
+    color: blue;
+}
+
+/********icone******/
+#expenseToDo .panel-yellow tbody a{
+    color:#CC0000;
+}
+
+#expenseToDo .panel-yellow tbody a:hover{
+    color:#990000;
+}
+
+#expenseToDo .panel-yellow tbody a:focus{
+    color:#990000;
+}
+
+#inArrivo .panel-yellow tbody a{
+    color:#CC0000;
+}
+
+#inArrivo .panel-yellow tbody a:hover{
+    color:#990000;
+}
+
+#inArrivo .panel-yellow tbody a:focus{
+    color:#990000;
+}
+
+#expenseToDo .panel-danger tbody a{
+    color:green;
+}
+
+#expenseToDo .panel-danger tbody a:hover{
+    color:green;
+}
+
+#expenseToDo .panel-danger tbody a:focus{
+    color:forestgreen;
+}
+
+#inArrivo .panel-danger tbody a{
+    color:green;
+}
+
+#inArrivo .panel-danger tbody a:hover{
+    color:green;
+}
+
+#inArrivo .panel-danger tbody a:focus{
+    color:forestgreen;
+}
+
+#inArrivo .panel-danger tbody .del{
+    color:#CC0000;
+}
+
+#inArrivo .panel-danger tbody .del:hover{
+    color:#990000;
+}
+
+#inArrivo .panel-danger tbody .del:focus{
+    color:#990000;
+}
+
+#expenseToDo .panel-danger tbody .del{
+    color:#CC0000;
+}
+
+#expenseToDo .panel-danger tbody .del:hover{
+    color:#990000;
+}
+
+#expenseToDo .panel-danger tbody .del:focus{
+    color:#990000;
+}
+
+#activeClienti tbody .delete{
+    color:#CC0000;
+}
+#activeClienti tbody .delete:hover{
+    color:#990000;
+}
+#activeClienti tbody .delete:focus{
+    color:#CC0000;
+}
+
+#activeClienti tbody .edit{
+    color:#B5B5B5;
+}
+#activeClienti tbody .edit:hover{
+    color:#6D6D6D;
+}
+#activeClienti tbody .edit:focus{
+    color:#B5B5B5;
+}
+
+#expenseCategory tbody .delete{
+    color:#CC0000;
+}
+#expenseCategory tbody .delete:hover{
+    color:#990000;
+}
+#expenseCategory tbody .delete:focus{
+    color:#CC0000;
+}
+
+#expenseVoci tbody .delete{
+    color:#CC0000;
+}
+#expenseVoci tbody .delete:hover{
+    color:#990000;
+}
+#expenseVoci tbody .delete:focus{
+    color:#CC0000;
+}
+
+#detEntrate tbody a{
+    color:#CC0000;
+}
+
+#detEntrate tbody a:hover{
+    color:#990000;
+}
+
+#detEntrate tbody a:focus{
+    color:#990000;
+}
+
+#detUscite tbody a{
+    color:#CC0000;
+}
+
+#detUscite tbody a:hover{
+    color:#990000;
+}
+
+#detUscite tbody a:focus{
+    color:#990000;
+}
+
+#detrazioniNome tbody a{
+    color:#CC0000;
+}
+
+#detrazioniNome tbody a:hover{
+    color:#990000;
+}
+
+#detrazioniNome tbody a:focus{
+    color:#990000;
+}
+
+#activeClienti tbody .info{
+    color:cornflowerblue;
+    cursor: pointer;
+}
+#activeClienti tbody .info:hover{
+    color:darkblue;
+    cursor: pointer;
+}
+#activeClienti tbody .info:focus{
+    color:darkblue;
+    cursor: pointer;
+}
+
+/***********fine icone***************/
+
+/*stile header modal */
+.modal-header-info {
+    color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #5bc0de;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+
+
+.modal-header-danger {
+	color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #d9534f;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+
+.modal-header-primary {
+	color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #428bca;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+
+.modal-header-success {
+    color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #5cb85c;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+
+.input{
+	margin-bottom:15px;
+}
